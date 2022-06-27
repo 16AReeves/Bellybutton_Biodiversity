@@ -1,6 +1,6 @@
 # Bellybutton_Biodiversity
 ---
-## Web dashboard designed for the UNC Data Analytics Bootcamp
+## Module 12: Web dashboard designed for the UNC Data Analytics Bootcamp
 ---
 ### Project Design
 ---
